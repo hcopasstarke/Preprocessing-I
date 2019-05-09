@@ -130,7 +130,9 @@ table {
 * {
   box-sizing: border-box;
 }
-html,
-body {
-  height: 100%;
+.navigation .name {
+  float: left;
+}
+.navigation nav {
+  float: right;
 }
